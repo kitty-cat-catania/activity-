@@ -1,0 +1,1064 @@
+Characteristics of COVID-19-associated Hospitalizations from the COVID-NET Network (data downloaded on 3/22/2021)Centers for Disease Control and Prevention
+Primary Strata,Primary Strata Name,Secondary Strata,Secondary Strata Name,Count,Percent
+Age,0-4 yr,Sex,Male,442,55.0
+Age,0-4 yr,Sex,Female,362,45.0
+Age,0-4 yr,Race/Ethnicity,White,180,22.4
+Age,0-4 yr,Race/Ethnicity,Black,222,27.6
+Age,0-4 yr,Race/Ethnicity,Hispanic/Latino,290,36.1
+Age,0-4 yr,Race/Ethnicity,Asian/Pacific Islander,56,7.0
+Age,0-4 yr,Race/Ethnicity,American Indian/Alaska Native,8,1.0
+Age,0-4 yr,Race/Ethnicity,Other,47,5.9
+Age,0-4 yr,In-hospital death,Yes       ,6,0.8
+Age,0-4 yr,In-hospital death,No        ,771,99.2
+Age,0-4 yr,Intensive care unit,Yes       ,190,24.5
+Age,0-4 yr,Intensive care unit,No        ,587,75.5
+Age,0-4 yr,Mechanical ventilation,Yes       ,46,5.9
+Age,0-4 yr,Mechanical ventilation,No        ,731,94.1
+Age,0-4 yr,Asthma,Yes       ,21,2.7
+Age,0-4 yr,Asthma,No        ,761,97.3
+Age,0-4 yr,COPD/emphysema,Yes       ,,
+Age,0-4 yr,COPD/emphysema,No        ,782,100.0
+Age,0-4 yr,Diabetes,Yes       ,2,0.3
+Age,0-4 yr,Diabetes,No        ,780,99.7
+Age,0-4 yr,Coronary artery disease,Yes       ,,
+Age,0-4 yr,Coronary artery disease,No        ,782,100.0
+Age,0-4 yr,Heart failure,Yes       ,3,0.4
+Age,0-4 yr,Heart failure,No        ,779,99.6
+Age,0-4 yr,Hypertension,Yes       ,6,0.8
+Age,0-4 yr,Hypertension,No        ,776,99.2
+Age,0-4 yr,Obesity,Yes       ,33,25.4
+Age,0-4 yr,Obesity,No        ,97,74.6
+Age,0-4 yr,Chronic kidney disease,Yes       ,5,0.6
+Age,0-4 yr,Chronic kidney disease,No        ,777,99.4
+Age,0-4 yr,Abdominal Pain,Yes       ,49,6.4
+Age,0-4 yr,Abdominal Pain,No        ,715,93.6
+Age,0-4 yr,Altered mental status/confusion,Yes       ,23,3.0
+Age,0-4 yr,Altered mental status/confusion,No        ,741,97.0
+Age,0-4 yr,Anosmia/decreased smell,Yes       ,1,0.1
+Age,0-4 yr,Anosmia/decreased smell,No        ,763,99.9
+Age,0-4 yr,Chest pain,Yes       ,3,0.4
+Age,0-4 yr,Chest pain,No        ,761,99.6
+Age,0-4 yr,Congested/runny nose,Yes       ,259,33.9
+Age,0-4 yr,Congested/runny nose,No        ,505,66.1
+Age,0-4 yr,Cough,Yes       ,220,28.8
+Age,0-4 yr,Cough,No        ,544,71.2
+Age,0-4 yr,Diarrhea,Yes       ,99,13.0
+Age,0-4 yr,Diarrhea,No        ,665,87.0
+Age,0-4 yr,Dysgeusia/decreased taste,Yes       ,,
+Age,0-4 yr,Dysgeusia/decreased taste,No        ,764,100.0
+Age,0-4 yr,Fever/chills,Yes       ,485,63.5
+Age,0-4 yr,Fever/chills,No        ,279,36.5
+Age,0-4 yr,Headache,Yes       ,17,2.2
+Age,0-4 yr,Headache,No        ,747,97.8
+Age,0-4 yr,Hemoptysis/bloody sputum,Yes       ,,
+Age,0-4 yr,Hemoptysis/bloody sputum,No        ,764,100.0
+Age,0-4 yr,Muscle aches/myalgias,Yes       ,8,1.0
+Age,0-4 yr,Muscle aches/myalgias,No        ,756,99.0
+Age,0-4 yr,Nausea/vomiting,Yes       ,203,26.6
+Age,0-4 yr,Nausea/vomiting,No        ,561,73.4
+Age,0-4 yr,Shortness of breath,Yes       ,123,16.1
+Age,0-4 yr,Shortness of breath,No        ,641,83.9
+Age,0-4 yr,Sore throat,Yes       ,12,1.6
+Age,0-4 yr,Sore throat,No        ,752,98.4
+Age,0-4 yr,Wheezing,Yes       ,29,3.8
+Age,0-4 yr,Wheezing,No        ,735,96.2
+Age,0-4 yr,Acute renal failure/acute kidney injury,Yes       ,8,1.0
+Age,0-4 yr,Acute renal failure/acute kidney injury,No        ,769,99.0
+Age,0-4 yr,Acute respiratory distress syndrome,Yes       ,4,0.5
+Age,0-4 yr,Acute respiratory distress syndrome,No        ,773,99.5
+Age,0-4 yr,Acute respiratory failure,Yes       ,52,6.7
+Age,0-4 yr,Acute respiratory failure,No        ,725,93.3
+Age,0-4 yr,Pneumonia,Yes       ,38,4.9
+Age,0-4 yr,Pneumonia,No        ,739,95.1
+Age,0-4 yr,Sepsis,Yes       ,29,3.7
+Age,0-4 yr,Sepsis,No        ,748,96.3
+Age,5-17 yr,Sex,Male,614,47.8
+Age,5-17 yr,Sex,Female,671,52.2
+Age,5-17 yr,Race/Ethnicity,White,291,22.7
+Age,5-17 yr,Race/Ethnicity,Black,386,30.1
+Age,5-17 yr,Race/Ethnicity,Hispanic/Latino,475,37.1
+Age,5-17 yr,Race/Ethnicity,Asian/Pacific Islander,56,4.4
+Age,5-17 yr,Race/Ethnicity,American Indian/Alaska Native,13,1.0
+Age,5-17 yr,Race/Ethnicity,Other,61,4.8
+Age,5-17 yr,In-hospital death,Yes       ,9,0.7
+Age,5-17 yr,In-hospital death,No        ,1226,99.3
+Age,5-17 yr,Intensive care unit,Yes       ,350,28.3
+Age,5-17 yr,Intensive care unit,No        ,886,71.7
+Age,5-17 yr,Mechanical ventilation,Yes       ,70,5.7
+Age,5-17 yr,Mechanical ventilation,No        ,1165,94.3
+Age,5-17 yr,Asthma,Yes       ,235,19.0
+Age,5-17 yr,Asthma,No        ,1004,81.0
+Age,5-17 yr,COPD/emphysema,Yes       ,1,0.1
+Age,5-17 yr,COPD/emphysema,No        ,1238,99.9
+Age,5-17 yr,Diabetes,Yes       ,65,5.2
+Age,5-17 yr,Diabetes,No        ,1175,94.8
+Age,5-17 yr,Coronary artery disease,Yes       ,1,0.1
+Age,5-17 yr,Coronary artery disease,No        ,1238,99.9
+Age,5-17 yr,Heart failure,Yes       ,1,0.1
+Age,5-17 yr,Heart failure,No        ,1238,99.9
+Age,5-17 yr,Hypertension,Yes       ,26,2.1
+Age,5-17 yr,Hypertension,No        ,1215,97.9
+Age,5-17 yr,Obesity,Yes       ,332,35.7
+Age,5-17 yr,Obesity,No        ,597,64.3
+Age,5-17 yr,Chronic kidney disease,Yes       ,14,1.1
+Age,5-17 yr,Chronic kidney disease,No        ,1227,98.9
+Age,5-17 yr,Abdominal Pain,Yes       ,346,28.1
+Age,5-17 yr,Abdominal Pain,No        ,885,71.9
+Age,5-17 yr,Altered mental status/confusion,Yes       ,61,5.0
+Age,5-17 yr,Altered mental status/confusion,No        ,1170,95.0
+Age,5-17 yr,Anosmia/decreased smell,Yes       ,46,3.7
+Age,5-17 yr,Anosmia/decreased smell,No        ,1185,96.3
+Age,5-17 yr,Chest pain,Yes       ,161,13.1
+Age,5-17 yr,Chest pain,No        ,1070,86.9
+Age,5-17 yr,Congested/runny nose,Yes       ,180,14.6
+Age,5-17 yr,Congested/runny nose,No        ,1051,85.4
+Age,5-17 yr,Cough,Yes       ,329,26.7
+Age,5-17 yr,Cough,No        ,902,73.3
+Age,5-17 yr,Diarrhea,Yes       ,169,13.7
+Age,5-17 yr,Diarrhea,No        ,1062,86.3
+Age,5-17 yr,Dysgeusia/decreased taste,Yes       ,51,4.1
+Age,5-17 yr,Dysgeusia/decreased taste,No        ,1180,95.9
+Age,5-17 yr,Fever/chills,Yes       ,496,40.3
+Age,5-17 yr,Fever/chills,No        ,735,59.7
+Age,5-17 yr,Headache,Yes       ,242,19.7
+Age,5-17 yr,Headache,No        ,989,80.3
+Age,5-17 yr,Hemoptysis/bloody sputum,Yes       ,4,0.3
+Age,5-17 yr,Hemoptysis/bloody sputum,No        ,1227,99.7
+Age,5-17 yr,Muscle aches/myalgias,Yes       ,143,11.6
+Age,5-17 yr,Muscle aches/myalgias,No        ,1088,88.4
+Age,5-17 yr,Nausea/vomiting,Yes       ,451,36.6
+Age,5-17 yr,Nausea/vomiting,No        ,780,63.4
+Age,5-17 yr,Shortness of breath,Yes       ,254,20.6
+Age,5-17 yr,Shortness of breath,No        ,977,79.4
+Age,5-17 yr,Sore throat,Yes       ,166,13.5
+Age,5-17 yr,Sore throat,No        ,1065,86.5
+Age,5-17 yr,Wheezing,Yes       ,34,2.8
+Age,5-17 yr,Wheezing,No        ,1197,97.2
+Age,5-17 yr,Acute renal failure/acute kidney injury,Yes       ,50,4.1
+Age,5-17 yr,Acute renal failure/acute kidney injury,No        ,1184,95.9
+Age,5-17 yr,Acute respiratory distress syndrome,Yes       ,14,1.1
+Age,5-17 yr,Acute respiratory distress syndrome,No        ,1219,98.9
+Age,5-17 yr,Acute respiratory failure,Yes       ,91,7.4
+Age,5-17 yr,Acute respiratory failure,No        ,1143,92.6
+Age,5-17 yr,Pneumonia,Yes       ,144,11.7
+Age,5-17 yr,Pneumonia,No        ,1090,88.3
+Age,5-17 yr,Sepsis,Yes       ,34,2.8
+Age,5-17 yr,Sepsis,No        ,1199,97.2
+Age,18-49 yr,Sex,Male,16672,46.4
+Age,18-49 yr,Sex,Female,19286,53.6
+Age,18-49 yr,Race/Ethnicity,White,8182,23.0
+Age,18-49 yr,Race/Ethnicity,Black,10502,29.6
+Age,18-49 yr,Race/Ethnicity,Hispanic/Latino,11964,33.7
+Age,18-49 yr,Race/Ethnicity,Asian/Pacific Islander,1866,5.3
+Age,18-49 yr,Race/Ethnicity,American Indian/Alaska Native,720,2.0
+Age,18-49 yr,Race/Ethnicity,Other,2303,6.5
+Age,18-49 yr,In-hospital death,Yes       ,,2.5
+Age,18-49 yr,In-hospital death,No        ,,97.5
+Age,18-49 yr,Intensive care unit,Yes       ,,18.7
+Age,18-49 yr,Intensive care unit,No        ,,81.3
+Age,18-49 yr,Mechanical ventilation,Yes       ,,9.2
+Age,18-49 yr,Mechanical ventilation,No        ,,90.8
+Age,18-49 yr,Asthma,Yes       ,,14.3
+Age,18-49 yr,Asthma,No        ,,85.7
+Age,18-49 yr,COPD/emphysema,Yes       ,,0.7
+Age,18-49 yr,COPD/emphysema,No        ,,99.3
+Age,18-49 yr,Diabetes,Yes       ,,20.5
+Age,18-49 yr,Diabetes,No        ,,79.5
+Age,18-49 yr,Coronary artery disease,Yes       ,,1.7
+Age,18-49 yr,Coronary artery disease,No        ,,98.3
+Age,18-49 yr,Heart failure,Yes       ,,3.6
+Age,18-49 yr,Heart failure,No        ,,96.4
+Age,18-49 yr,Hypertension,Yes       ,,25.1
+Age,18-49 yr,Hypertension,No        ,,74.9
+Age,18-49 yr,Obesity,Yes       ,,63.2
+Age,18-49 yr,Obesity,No        ,,36.8
+Age,18-49 yr,Chronic kidney disease,Yes       ,,5.9
+Age,18-49 yr,Chronic kidney disease,No        ,,94.1
+Age,18-49 yr,Abdominal Pain,Yes       ,,15.9
+Age,18-49 yr,Abdominal Pain,No        ,,84.1
+Age,18-49 yr,Altered mental status/confusion,Yes       ,,3.4
+Age,18-49 yr,Altered mental status/confusion,No        ,,96.6
+Age,18-49 yr,Anosmia/decreased smell,Yes       ,,8.1
+Age,18-49 yr,Anosmia/decreased smell,No        ,,91.9
+Age,18-49 yr,Chest pain,Yes       ,,22.0
+Age,18-49 yr,Chest pain,No        ,,78.0
+Age,18-49 yr,Congested/runny nose,Yes       ,,9.6
+Age,18-49 yr,Congested/runny nose,No        ,,90.4
+Age,18-49 yr,Cough,Yes       ,,57.6
+Age,18-49 yr,Cough,No        ,,42.4
+Age,18-49 yr,Diarrhea,Yes       ,,21.0
+Age,18-49 yr,Diarrhea,No        ,,79.0
+Age,18-49 yr,Dysgeusia/decreased taste,Yes       ,,9.3
+Age,18-49 yr,Dysgeusia/decreased taste,No        ,,90.7
+Age,18-49 yr,Fever/chills,Yes       ,,53.8
+Age,18-49 yr,Fever/chills,No        ,,46.2
+Age,18-49 yr,Headache,Yes       ,,19.3
+Age,18-49 yr,Headache,No        ,,80.7
+Age,18-49 yr,Hemoptysis/bloody sputum,Yes       ,,1.2
+Age,18-49 yr,Hemoptysis/bloody sputum,No        ,,98.8
+Age,18-49 yr,Muscle aches/myalgias,Yes       ,,28.7
+Age,18-49 yr,Muscle aches/myalgias,No        ,,71.3
+Age,18-49 yr,Nausea/vomiting,Yes       ,,28.7
+Age,18-49 yr,Nausea/vomiting,No        ,,71.3
+Age,18-49 yr,Shortness of breath,Yes       ,,58.0
+Age,18-49 yr,Shortness of breath,No        ,,42.0
+Age,18-49 yr,Sore throat,Yes       ,,9.6
+Age,18-49 yr,Sore throat,No        ,,90.4
+Age,18-49 yr,Wheezing,Yes       ,,2.2
+Age,18-49 yr,Wheezing,No        ,,97.8
+Age,18-49 yr,Acute renal failure/acute kidney injury,Yes       ,,8.9
+Age,18-49 yr,Acute renal failure/acute kidney injury,No        ,,91.1
+Age,18-49 yr,Acute respiratory distress syndrome,Yes       ,,4.2
+Age,18-49 yr,Acute respiratory distress syndrome,No        ,,95.8
+Age,18-49 yr,Acute respiratory failure,Yes       ,,34.2
+Age,18-49 yr,Acute respiratory failure,No        ,,65.8
+Age,18-49 yr,Pneumonia,Yes       ,,48.2
+Age,18-49 yr,Pneumonia,No        ,,51.8
+Age,18-49 yr,Sepsis,Yes       ,,12.7
+Age,18-49 yr,Sepsis,No        ,,87.3
+Age,50-64 yr,Sex,Male,21600,55.9
+Age,50-64 yr,Sex,Female,17006,44.1
+Age,50-64 yr,Race/Ethnicity,White,13645,35.8
+Age,50-64 yr,Race/Ethnicity,Black,11918,31.2
+Age,50-64 yr,Race/Ethnicity,Hispanic/Latino,7759,20.3
+Age,50-64 yr,Race/Ethnicity,Asian/Pacific Islander,1983,5.2
+Age,50-64 yr,Race/Ethnicity,American Indian/Alaska Native,617,1.6
+Age,50-64 yr,Race/Ethnicity,Other,2217,5.8
+Age,50-64 yr,In-hospital death,Yes       ,,8.3
+Age,50-64 yr,In-hospital death,No        ,,91.7
+Age,50-64 yr,Intensive care unit,Yes       ,,26.2
+Age,50-64 yr,Intensive care unit,No        ,,73.8
+Age,50-64 yr,Mechanical ventilation,Yes       ,,14.8
+Age,50-64 yr,Mechanical ventilation,No        ,,85.2
+Age,50-64 yr,Asthma,Yes       ,,13.2
+Age,50-64 yr,Asthma,No        ,,86.8
+Age,50-64 yr,COPD/emphysema,Yes       ,,7.5
+Age,50-64 yr,COPD/emphysema,No        ,,92.5
+Age,50-64 yr,Diabetes,Yes       ,,39.9
+Age,50-64 yr,Diabetes,No        ,,60.1
+Age,50-64 yr,Coronary artery disease,Yes       ,,10.1
+Age,50-64 yr,Coronary artery disease,No        ,,89.9
+Age,50-64 yr,Heart failure,Yes       ,,9.6
+Age,50-64 yr,Heart failure,No        ,,90.4
+Age,50-64 yr,Hypertension,Yes       ,,60.5
+Age,50-64 yr,Hypertension,No        ,,39.5
+Age,50-64 yr,Obesity,Yes       ,,57.4
+Age,50-64 yr,Obesity,No        ,,42.6
+Age,50-64 yr,Chronic kidney disease,Yes       ,,14.5
+Age,50-64 yr,Chronic kidney disease,No        ,,85.5
+Age,50-64 yr,Abdominal Pain,Yes       ,,10.5
+Age,50-64 yr,Abdominal Pain,No        ,,89.5
+Age,50-64 yr,Altered mental status/confusion,Yes       ,,6.7
+Age,50-64 yr,Altered mental status/confusion,No        ,,93.3
+Age,50-64 yr,Anosmia/decreased smell,Yes       ,,7.8
+Age,50-64 yr,Anosmia/decreased smell,No        ,,92.2
+Age,50-64 yr,Chest pain,Yes       ,,22.1
+Age,50-64 yr,Chest pain,No        ,,77.9
+Age,50-64 yr,Congested/runny nose,Yes       ,,10.2
+Age,50-64 yr,Congested/runny nose,No        ,,89.8
+Age,50-64 yr,Cough,Yes       ,,68.4
+Age,50-64 yr,Cough,No        ,,31.6
+Age,50-64 yr,Diarrhea,Yes       ,,24.4
+Age,50-64 yr,Diarrhea,No        ,,75.6
+Age,50-64 yr,Dysgeusia/decreased taste,Yes       ,,9.0
+Age,50-64 yr,Dysgeusia/decreased taste,No        ,,91.0
+Age,50-64 yr,Fever/chills,Yes       ,,59.1
+Age,50-64 yr,Fever/chills,No        ,,40.9
+Age,50-64 yr,Headache,Yes       ,,18.8
+Age,50-64 yr,Headache,No        ,,81.2
+Age,50-64 yr,Hemoptysis/bloody sputum,Yes       ,,1.2
+Age,50-64 yr,Hemoptysis/bloody sputum,No        ,,98.8
+Age,50-64 yr,Muscle aches/myalgias,Yes       ,,29.9
+Age,50-64 yr,Muscle aches/myalgias,No        ,,70.1
+Age,50-64 yr,Nausea/vomiting,Yes       ,,27.6
+Age,50-64 yr,Nausea/vomiting,No        ,,72.4
+Age,50-64 yr,Shortness of breath,Yes       ,,71.5
+Age,50-64 yr,Shortness of breath,No        ,,28.5
+Age,50-64 yr,Sore throat,Yes       ,,8.9
+Age,50-64 yr,Sore throat,No        ,,91.1
+Age,50-64 yr,Wheezing,Yes       ,,3.8
+Age,50-64 yr,Wheezing,No        ,,96.2
+Age,50-64 yr,Acute renal failure/acute kidney injury,Yes       ,,17.7
+Age,50-64 yr,Acute renal failure/acute kidney injury,No        ,,82.3
+Age,50-64 yr,Acute respiratory distress syndrome,Yes       ,,7.3
+Age,50-64 yr,Acute respiratory distress syndrome,No        ,,92.7
+Age,50-64 yr,Acute respiratory failure,Yes       ,,47.3
+Age,50-64 yr,Acute respiratory failure,No        ,,52.7
+Age,50-64 yr,Pneumonia,Yes       ,,60.8
+Age,50-64 yr,Pneumonia,No        ,,39.2
+Age,50-64 yr,Sepsis,Yes       ,,15.3
+Age,50-64 yr,Sepsis,No        ,,84.7
+Age,65+ yr,Sex,Male,32823,49.7
+Age,65+ yr,Sex,Female,33166,50.3
+Age,65+ yr,Race/Ethnicity,White,36351,56.0
+Age,65+ yr,Race/Ethnicity,Black,14554,22.4
+Age,65+ yr,Race/Ethnicity,Hispanic/Latino,6683,10.3
+Age,65+ yr,Race/Ethnicity,Asian/Pacific Islander,3182,4.9
+Age,65+ yr,Race/Ethnicity,American Indian/Alaska Native,594,0.9
+Age,65+ yr,Race/Ethnicity,Other,3574,5.5
+Age,65+ yr,In-hospital death,Yes       ,,17.8
+Age,65+ yr,In-hospital death,No        ,,82.2
+Age,65+ yr,Intensive care unit,Yes       ,,25.6
+Age,65+ yr,Intensive care unit,No        ,,74.4
+Age,65+ yr,Mechanical ventilation,Yes       ,,15.1
+Age,65+ yr,Mechanical ventilation,No        ,,84.9
+Age,65+ yr,Asthma,Yes       ,,9.8
+Age,65+ yr,Asthma,No        ,,90.2
+Age,65+ yr,COPD/emphysema,Yes       ,,17.3
+Age,65+ yr,COPD/emphysema,No        ,,82.7
+Age,65+ yr,Diabetes,Yes       ,,42.5
+Age,65+ yr,Diabetes,No        ,,57.5
+Age,65+ yr,Coronary artery disease,Yes       ,,23.6
+Age,65+ yr,Coronary artery disease,No        ,,76.4
+Age,65+ yr,Heart failure,Yes       ,,19.5
+Age,65+ yr,Heart failure,No        ,,80.5
+Age,65+ yr,Hypertension,Yes       ,,77.1
+Age,65+ yr,Hypertension,No        ,,22.9
+Age,65+ yr,Obesity,Yes       ,,36.9
+Age,65+ yr,Obesity,No        ,,63.1
+Age,65+ yr,Chronic kidney disease,Yes       ,,24.7
+Age,65+ yr,Chronic kidney disease,No        ,,75.3
+Age,65+ yr,Abdominal Pain,Yes       ,,7.9
+Age,65+ yr,Abdominal Pain,No        ,,92.1
+Age,65+ yr,Altered mental status/confusion,Yes       ,,20.9
+Age,65+ yr,Altered mental status/confusion,No        ,,79.1
+Age,65+ yr,Anosmia/decreased smell,Yes       ,,3.9
+Age,65+ yr,Anosmia/decreased smell,No        ,,96.1
+Age,65+ yr,Chest pain,Yes       ,,9.5
+Age,65+ yr,Chest pain,No        ,,90.5
+Age,65+ yr,Congested/runny nose,Yes       ,,7.6
+Age,65+ yr,Congested/runny nose,No        ,,92.4
+Age,65+ yr,Cough,Yes       ,,55.3
+Age,65+ yr,Cough,No        ,,44.7
+Age,65+ yr,Diarrhea,Yes       ,,20.2
+Age,65+ yr,Diarrhea,No        ,,79.8
+Age,65+ yr,Dysgeusia/decreased taste,Yes       ,,5.5
+Age,65+ yr,Dysgeusia/decreased taste,No        ,,94.5
+Age,65+ yr,Fever/chills,Yes       ,,43.8
+Age,65+ yr,Fever/chills,No        ,,56.2
+Age,65+ yr,Headache,Yes       ,,10.1
+Age,65+ yr,Headache,No        ,,89.9
+Age,65+ yr,Hemoptysis/bloody sputum,Yes       ,,0.5
+Age,65+ yr,Hemoptysis/bloody sputum,No        ,,99.5
+Age,65+ yr,Muscle aches/myalgias,Yes       ,,17.2
+Age,65+ yr,Muscle aches/myalgias,No        ,,82.8
+Age,65+ yr,Nausea/vomiting,Yes       ,,18.3
+Age,65+ yr,Nausea/vomiting,No        ,,81.7
+Age,65+ yr,Shortness of breath,Yes       ,,60.4
+Age,65+ yr,Shortness of breath,No        ,,39.6
+Age,65+ yr,Sore throat,Yes       ,,4.5
+Age,65+ yr,Sore throat,No        ,,95.5
+Age,65+ yr,Wheezing,Yes       ,,3.6
+Age,65+ yr,Wheezing,No        ,,96.4
+Age,65+ yr,Acute renal failure/acute kidney injury,Yes       ,,25.8
+Age,65+ yr,Acute renal failure/acute kidney injury,No        ,,74.2
+Age,65+ yr,Acute respiratory distress syndrome,Yes       ,,5.7
+Age,65+ yr,Acute respiratory distress syndrome,No        ,,94.3
+Age,65+ yr,Acute respiratory failure,Yes       ,,48.5
+Age,65+ yr,Acute respiratory failure,No        ,,51.5
+Age,65+ yr,Pneumonia,Yes       ,,57.9
+Age,65+ yr,Pneumonia,No        ,,42.1
+Age,65+ yr,Sepsis,Yes       ,,14.7
+Age,65+ yr,Sepsis,No        ,,85.3
+Age,Overall,Sex,Male,72151,50.6
+Age,Overall,Sex,Female,70491,49.4
+Age,Overall,Race/Ethnicity,White,58649,41.7
+Age,Overall,Race/Ethnicity,Black,37582,26.7
+Age,Overall,Race/Ethnicity,Hispanic/Latino,27171,19.3
+Age,Overall,Race/Ethnicity,Asian/Pacific Islander,7143,5.1
+Age,Overall,Race/Ethnicity,American Indian/Alaska Native,1952,1.4
+Age,Overall,Race/Ethnicity,Other,8202,5.8
+Age,Overall,In-hospital death,Yes       ,,11.1
+Age,Overall,In-hospital death,No        ,,88.9
+Age,Overall,Intensive care unit,Yes       ,,24.0
+Age,Overall,Intensive care unit,No        ,,76.0
+Age,Overall,Mechanical ventilation,Yes       ,,13.4
+Age,Overall,Mechanical ventilation,No        ,,86.6
+Age,Overall,Asthma,Yes       ,,11.9
+Age,Overall,Asthma,No        ,,88.1
+Age,Overall,COPD/emphysema,Yes       ,,10.2
+Age,Overall,COPD/emphysema,No        ,,89.8
+Age,Overall,Diabetes,Yes       ,,35.7
+Age,Overall,Diabetes,No        ,,64.3
+Age,Overall,Coronary artery disease,Yes       ,,14.0
+Age,Overall,Coronary artery disease,No        ,,86.0
+Age,Overall,Heart failure,Yes       ,,12.5
+Age,Overall,Heart failure,No        ,,87.5
+Age,Overall,Hypertension,Yes       ,,58.4
+Age,Overall,Hypertension,No        ,,41.6
+Age,Overall,Obesity,Yes       ,,48.5
+Age,Overall,Obesity,No        ,,51.5
+Age,Overall,Chronic kidney disease,Yes       ,,16.8
+Age,Overall,Chronic kidney disease,No        ,,83.2
+Age,Overall,Abdominal Pain,Yes       ,,10.8
+Age,Overall,Abdominal Pain,No        ,,89.2
+Age,Overall,Altered mental status/confusion,Yes       ,,12.3
+Age,Overall,Altered mental status/confusion,No        ,,87.7
+Age,Overall,Anosmia/decreased smell,Yes       ,,6.0
+Age,Overall,Anosmia/decreased smell,No        ,,94.0
+Age,Overall,Chest pain,Yes       ,,16.1
+Age,Overall,Chest pain,No        ,,83.9
+Age,Overall,Congested/runny nose,Yes       ,,9.0
+Age,Overall,Congested/runny nose,No        ,,91.0
+Age,Overall,Cough,Yes       ,,59.1
+Age,Overall,Cough,No        ,,40.9
+Age,Overall,Diarrhea,Yes       ,,21.5
+Age,Overall,Diarrhea,No        ,,78.5
+Age,Overall,Dysgeusia/decreased taste,Yes       ,,7.4
+Age,Overall,Dysgeusia/decreased taste,No        ,,92.6
+Age,Overall,Fever/chills,Yes       ,,50.6
+Age,Overall,Fever/chills,No        ,,49.4
+Age,Overall,Headache,Yes       ,,14.8
+Age,Overall,Headache,No        ,,85.2
+Age,Overall,Hemoptysis/bloody sputum,Yes       ,,0.9
+Age,Overall,Hemoptysis/bloody sputum,No        ,,99.1
+Age,Overall,Muscle aches/myalgias,Yes       ,,23.4
+Age,Overall,Muscle aches/myalgias,No        ,,76.6
+Age,Overall,Nausea/vomiting,Yes       ,,23.7
+Age,Overall,Nausea/vomiting,No        ,,76.3
+Age,Overall,Shortness of breath,Yes       ,,62.2
+Age,Overall,Shortness of breath,No        ,,37.8
+Age,Overall,Sore throat,Yes       ,,7.0
+Age,Overall,Sore throat,No        ,,93.0
+Age,Overall,Wheezing,Yes       ,,3.3
+Age,Overall,Wheezing,No        ,,96.7
+Age,Overall,Acute renal failure/acute kidney injury,Yes       ,,19.0
+Age,Overall,Acute renal failure/acute kidney injury,No        ,,81.0
+Age,Overall,Acute respiratory distress syndrome,Yes       ,,5.7
+Age,Overall,Acute respiratory distress syndrome,No        ,,94.3
+Age,Overall,Acute respiratory failure,Yes       ,,43.9
+Age,Overall,Acute respiratory failure,No        ,,56.1
+Age,Overall,Pneumonia,Yes       ,,55.5
+Age,Overall,Pneumonia,No        ,,44.5
+Age,Overall,Sepsis,Yes       ,,14.2
+Age,Overall,Sepsis,No        ,,85.8
+Sex,Male,Age,18-49 yr,16672,23.1
+Sex,Male,Age,50-64 yr,21600,29.9
+Sex,Male,Age,65+ yr,32823,45.5
+Sex,Male,Race/Ethnicity,White,30243,42.5
+Sex,Male,Race/Ethnicity,Black,17734,24.9
+Sex,Male,Race/Ethnicity,Hispanic/Latino,14174,19.9
+Sex,Male,Race/Ethnicity,Asian/Pacific Islander,3653,5.1
+Sex,Male,Race/Ethnicity,American Indian/Alaska Native,883,1.2
+Sex,Male,Race/Ethnicity,Other,4463,6.3
+Sex,Male,In-hospital death,Yes       ,,12.8
+Sex,Male,In-hospital death,No        ,,87.2
+Sex,Male,Intensive care unit,Yes       ,,27.9
+Sex,Male,Intensive care unit,No        ,,72.1
+Sex,Male,Mechanical ventilation,Yes       ,,15.5
+Sex,Male,Mechanical ventilation,No        ,,84.5
+Sex,Male,Asthma,Yes       ,,8.0
+Sex,Male,Asthma,No        ,,92.0
+Sex,Male,COPD/emphysema,Yes       ,,10.5
+Sex,Male,COPD/emphysema,No        ,,89.5
+Sex,Male,Diabetes,Yes       ,,36.9
+Sex,Male,Diabetes,No        ,,63.1
+Sex,Male,Coronary artery disease,Yes       ,,17.8
+Sex,Male,Coronary artery disease,No        ,,82.2
+Sex,Male,Heart failure,Yes       ,,13.6
+Sex,Male,Heart failure,No        ,,86.4
+Sex,Male,Hypertension,Yes       ,,59.8
+Sex,Male,Hypertension,No        ,,40.2
+Sex,Male,Obesity,Yes       ,,44.1
+Sex,Male,Obesity,No        ,,55.9
+Sex,Male,Chronic kidney disease,Yes       ,,18.9
+Sex,Male,Chronic kidney disease,No        ,,81.1
+Sex,Male,Abdominal Pain,Yes       ,,10.5
+Sex,Male,Abdominal Pain,No        ,,89.5
+Sex,Male,Altered mental status/confusion,Yes       ,,12.4
+Sex,Male,Altered mental status/confusion,No        ,,87.6
+Sex,Male,Anosmia/decreased smell,Yes       ,,5.4
+Sex,Male,Anosmia/decreased smell,No        ,,94.6
+Sex,Male,Chest pain,Yes       ,,16.7
+Sex,Male,Chest pain,No        ,,83.3
+Sex,Male,Congested/runny nose,Yes       ,,8.9
+Sex,Male,Congested/runny nose,No        ,,91.1
+Sex,Male,Cough,Yes       ,,61.3
+Sex,Male,Cough,No        ,,38.7
+Sex,Male,Diarrhea,Yes       ,,21.4
+Sex,Male,Diarrhea,No        ,,78.6
+Sex,Male,Dysgeusia/decreased taste,Yes       ,,6.8
+Sex,Male,Dysgeusia/decreased taste,No        ,,93.2
+Sex,Male,Fever/chills,Yes       ,,53.3
+Sex,Male,Fever/chills,No        ,,46.7
+Sex,Male,Headache,Yes       ,,13.1
+Sex,Male,Headache,No        ,,86.9
+Sex,Male,Hemoptysis/bloody sputum,Yes       ,,1.0
+Sex,Male,Hemoptysis/bloody sputum,No        ,,99.0
+Sex,Male,Muscle aches/myalgias,Yes       ,,23.6
+Sex,Male,Muscle aches/myalgias,No        ,,76.4
+Sex,Male,Nausea/vomiting,Yes       ,,21.0
+Sex,Male,Nausea/vomiting,No        ,,79.0
+Sex,Male,Shortness of breath,Yes       ,,64.5
+Sex,Male,Shortness of breath,No        ,,35.5
+Sex,Male,Sore throat,Yes       ,,7.0
+Sex,Male,Sore throat,No        ,,93.0
+Sex,Male,Wheezing,Yes       ,,3.3
+Sex,Male,Wheezing,No        ,,96.7
+Sex,Male,Acute renal failure/acute kidney injury,Yes       ,,22.2
+Sex,Male,Acute renal failure/acute kidney injury,No        ,,77.8
+Sex,Male,Acute respiratory distress syndrome,Yes       ,,6.7
+Sex,Male,Acute respiratory distress syndrome,No        ,,93.3
+Sex,Male,Acute respiratory failure,Yes       ,,46.4
+Sex,Male,Acute respiratory failure,No        ,,53.6
+Sex,Male,Pneumonia,Yes       ,,58.7
+Sex,Male,Pneumonia,No        ,,41.3
+Sex,Male,Sepsis,Yes       ,,16.5
+Sex,Male,Sepsis,No        ,,83.5
+Sex,Female,Age,18-49 yr,19286,27.4
+Sex,Female,Age,50-64 yr,17006,24.1
+Sex,Female,Age,65+ yr,33166,47.0
+Sex,Female,Race/Ethnicity,White,28403,40.8
+Sex,Female,Race/Ethnicity,Black,19847,28.5
+Sex,Female,Race/Ethnicity,Hispanic/Latino,12997,18.7
+Sex,Female,Race/Ethnicity,Asian/Pacific Islander,3490,5.0
+Sex,Female,Race/Ethnicity,American Indian/Alaska Native,1069,1.5
+Sex,Female,Race/Ethnicity,Other,3738,5.4
+Sex,Female,In-hospital death,Yes       ,,9.2
+Sex,Female,In-hospital death,No        ,,90.8
+Sex,Female,Intensive care unit,Yes       ,,20.0
+Sex,Female,Intensive care unit,No        ,,80.0
+Sex,Female,Mechanical ventilation,Yes       ,,11.2
+Sex,Female,Mechanical ventilation,No        ,,88.8
+Sex,Female,Asthma,Yes       ,,16.0
+Sex,Female,Asthma,No        ,,84.0
+Sex,Female,COPD/emphysema,Yes       ,,9.8
+Sex,Female,COPD/emphysema,No        ,,90.2
+Sex,Female,Diabetes,Yes       ,,34.4
+Sex,Female,Diabetes,No        ,,65.6
+Sex,Female,Coronary artery disease,Yes       ,,10.1
+Sex,Female,Coronary artery disease,No        ,,89.9
+Sex,Female,Heart failure,Yes       ,,11.3
+Sex,Female,Heart failure,No        ,,88.7
+Sex,Female,Hypertension,Yes       ,,56.9
+Sex,Female,Hypertension,No        ,,43.1
+Sex,Female,Obesity,Yes       ,,53.7
+Sex,Female,Obesity,No        ,,46.3
+Sex,Female,Chronic kidney disease,Yes       ,,14.6
+Sex,Female,Chronic kidney disease,No        ,,85.4
+Sex,Female,Abdominal Pain,Yes       ,,11.2
+Sex,Female,Abdominal Pain,No        ,,88.8
+Sex,Female,Altered mental status/confusion,Yes       ,,12.3
+Sex,Female,Altered mental status/confusion,No        ,,87.7
+Sex,Female,Anosmia/decreased smell,Yes       ,,6.7
+Sex,Female,Anosmia/decreased smell,No        ,,93.3
+Sex,Female,Chest pain,Yes       ,,15.4
+Sex,Female,Chest pain,No        ,,84.6
+Sex,Female,Congested/runny nose,Yes       ,,9.2
+Sex,Female,Congested/runny nose,No        ,,90.8
+Sex,Female,Cough,Yes       ,,56.7
+Sex,Female,Cough,No        ,,43.3
+Sex,Female,Diarrhea,Yes       ,,21.5
+Sex,Female,Diarrhea,No        ,,78.5
+Sex,Female,Dysgeusia/decreased taste,Yes       ,,8.0
+Sex,Female,Dysgeusia/decreased taste,No        ,,92.0
+Sex,Female,Fever/chills,Yes       ,,47.8
+Sex,Female,Fever/chills,No        ,,52.2
+Sex,Female,Headache,Yes       ,,16.6
+Sex,Female,Headache,No        ,,83.4
+Sex,Female,Hemoptysis/bloody sputum,Yes       ,,0.7
+Sex,Female,Hemoptysis/bloody sputum,No        ,,99.3
+Sex,Female,Muscle aches/myalgias,Yes       ,,23.3
+Sex,Female,Muscle aches/myalgias,No        ,,76.7
+Sex,Female,Nausea/vomiting,Yes       ,,26.6
+Sex,Female,Nausea/vomiting,No        ,,73.4
+Sex,Female,Shortness of breath,Yes       ,,59.8
+Sex,Female,Shortness of breath,No        ,,40.2
+Sex,Female,Sore throat,Yes       ,,7.1
+Sex,Female,Sore throat,No        ,,92.9
+Sex,Female,Wheezing,Yes       ,,3.3
+Sex,Female,Wheezing,No        ,,96.7
+Sex,Female,Acute renal failure/acute kidney injury,Yes       ,,15.5
+Sex,Female,Acute renal failure/acute kidney injury,No        ,,84.5
+Sex,Female,Acute respiratory distress syndrome,Yes       ,,4.7
+Sex,Female,Acute respiratory distress syndrome,No        ,,95.3
+Sex,Female,Acute respiratory failure,Yes       ,,41.3
+Sex,Female,Acute respiratory failure,No        ,,58.7
+Sex,Female,Pneumonia,Yes       ,,52.2
+Sex,Female,Pneumonia,No        ,,47.8
+Sex,Female,Sepsis,Yes       ,,11.8
+Sex,Female,Sepsis,No        ,,88.2
+Race/Ethnicity,White,Age,18-49 yr,8182,14.0
+Race/Ethnicity,White,Age,50-64 yr,13645,23.3
+Race/Ethnicity,White,Age,65+ yr,36351,62.0
+Race/Ethnicity,White,Sex,Male,30243,51.6
+Race/Ethnicity,White,Sex,Female,28403,48.4
+Race/Ethnicity,White,In-hospital death,Yes       ,,12.4
+Race/Ethnicity,White,In-hospital death,No        ,,87.6
+Race/Ethnicity,White,Intensive care unit,Yes       ,,21.3
+Race/Ethnicity,White,Intensive care unit,No        ,,78.7
+Race/Ethnicity,White,Mechanical ventilation,Yes       ,,11.1
+Race/Ethnicity,White,Mechanical ventilation,No        ,,88.9
+Race/Ethnicity,White,Asthma,Yes       ,,10.3
+Race/Ethnicity,White,Asthma,No        ,,89.7
+Race/Ethnicity,White,COPD/emphysema,Yes       ,,16.5
+Race/Ethnicity,White,COPD/emphysema,No        ,,83.5
+Race/Ethnicity,White,Diabetes,Yes       ,,32.3
+Race/Ethnicity,White,Diabetes,No        ,,67.7
+Race/Ethnicity,White,Coronary artery disease,Yes       ,,20.2
+Race/Ethnicity,White,Coronary artery disease,No        ,,79.8
+Race/Ethnicity,White,Heart failure,Yes       ,,14.7
+Race/Ethnicity,White,Heart failure,No        ,,85.3
+Race/Ethnicity,White,Hypertension,Yes       ,,63.4
+Race/Ethnicity,White,Hypertension,No        ,,36.6
+Race/Ethnicity,White,Obesity,Yes       ,,45.2
+Race/Ethnicity,White,Obesity,No        ,,54.8
+Race/Ethnicity,White,Chronic kidney disease,Yes       ,,17.4
+Race/Ethnicity,White,Chronic kidney disease,No        ,,82.6
+Race/Ethnicity,White,Abdominal Pain,Yes       ,,8.7
+Race/Ethnicity,White,Abdominal Pain,No        ,,91.3
+Race/Ethnicity,White,Altered mental status/confusion,Yes       ,,15.6
+Race/Ethnicity,White,Altered mental status/confusion,No        ,,84.4
+Race/Ethnicity,White,Anosmia/decreased smell,Yes       ,,5.0
+Race/Ethnicity,White,Anosmia/decreased smell,No        ,,95.0
+Race/Ethnicity,White,Chest pain,Yes       ,,12.5
+Race/Ethnicity,White,Chest pain,No        ,,87.5
+Race/Ethnicity,White,Congested/runny nose,Yes       ,,9.6
+Race/Ethnicity,White,Congested/runny nose,No        ,,90.4
+Race/Ethnicity,White,Cough,Yes       ,,56.6
+Race/Ethnicity,White,Cough,No        ,,43.4
+Race/Ethnicity,White,Diarrhea,Yes       ,,21.8
+Race/Ethnicity,White,Diarrhea,No        ,,78.2
+Race/Ethnicity,White,Dysgeusia/decreased taste,Yes       ,,5.9
+Race/Ethnicity,White,Dysgeusia/decreased taste,No        ,,94.1
+Race/Ethnicity,White,Fever/chills,Yes       ,,46.6
+Race/Ethnicity,White,Fever/chills,No        ,,53.4
+Race/Ethnicity,White,Headache,Yes       ,,12.7
+Race/Ethnicity,White,Headache,No        ,,87.3
+Race/Ethnicity,White,Hemoptysis/bloody sputum,Yes       ,,0.7
+Race/Ethnicity,White,Hemoptysis/bloody sputum,No        ,,99.3
+Race/Ethnicity,White,Muscle aches/myalgias,Yes       ,,20.9
+Race/Ethnicity,White,Muscle aches/myalgias,No        ,,79.1
+Race/Ethnicity,White,Nausea/vomiting,Yes       ,,22.8
+Race/Ethnicity,White,Nausea/vomiting,No        ,,77.2
+Race/Ethnicity,White,Shortness of breath,Yes       ,,60.9
+Race/Ethnicity,White,Shortness of breath,No        ,,39.1
+Race/Ethnicity,White,Sore throat,Yes       ,,5.5
+Race/Ethnicity,White,Sore throat,No        ,,94.5
+Race/Ethnicity,White,Wheezing,Yes       ,,4.0
+Race/Ethnicity,White,Wheezing,No        ,,96.0
+Race/Ethnicity,White,Acute renal failure/acute kidney injury,Yes       ,,19.4
+Race/Ethnicity,White,Acute renal failure/acute kidney injury,No        ,,80.6
+Race/Ethnicity,White,Acute respiratory distress syndrome,Yes       ,,4.2
+Race/Ethnicity,White,Acute respiratory distress syndrome,No        ,,95.8
+Race/Ethnicity,White,Acute respiratory failure,Yes       ,,44.3
+Race/Ethnicity,White,Acute respiratory failure,No        ,,55.7
+Race/Ethnicity,White,Pneumonia,Yes       ,,52.2
+Race/Ethnicity,White,Pneumonia,No        ,,47.8
+Race/Ethnicity,White,Sepsis,Yes       ,,13.6
+Race/Ethnicity,White,Sepsis,No        ,,86.4
+Race/Ethnicity,Black,Age,18-49 yr,10502,27.9
+Race/Ethnicity,Black,Age,50-64 yr,11918,31.7
+Race/Ethnicity,Black,Age,65+ yr,14554,38.7
+Race/Ethnicity,Black,Sex,Male,17734,47.2
+Race/Ethnicity,Black,Sex,Female,19847,52.8
+Race/Ethnicity,Black,In-hospital death,Yes       ,,9.3
+Race/Ethnicity,Black,In-hospital death,No        ,,90.7
+Race/Ethnicity,Black,Intensive care unit,Yes       ,,24.1
+Race/Ethnicity,Black,Intensive care unit,No        ,,75.9
+Race/Ethnicity,Black,Mechanical ventilation,Yes       ,,13.3
+Race/Ethnicity,Black,Mechanical ventilation,No        ,,86.7
+Race/Ethnicity,Black,Asthma,Yes       ,,16.5
+Race/Ethnicity,Black,Asthma,No        ,,83.5
+Race/Ethnicity,Black,COPD/emphysema,Yes       ,,8.1
+Race/Ethnicity,Black,COPD/emphysema,No        ,,91.9
+Race/Ethnicity,Black,Diabetes,Yes       ,,40.7
+Race/Ethnicity,Black,Diabetes,No        ,,59.3
+Race/Ethnicity,Black,Coronary artery disease,Yes       ,,11.7
+Race/Ethnicity,Black,Coronary artery disease,No        ,,88.3
+Race/Ethnicity,Black,Heart failure,Yes       ,,15.5
+Race/Ethnicity,Black,Heart failure,No        ,,84.5
+Race/Ethnicity,Black,Hypertension,Yes       ,,67.8
+Race/Ethnicity,Black,Hypertension,No        ,,32.2
+Race/Ethnicity,Black,Obesity,Yes       ,,54.7
+Race/Ethnicity,Black,Obesity,No        ,,45.3
+Race/Ethnicity,Black,Chronic kidney disease,Yes       ,,21.8
+Race/Ethnicity,Black,Chronic kidney disease,No        ,,78.2
+Race/Ethnicity,Black,Abdominal Pain,Yes       ,,10.9
+Race/Ethnicity,Black,Abdominal Pain,No        ,,89.1
+Race/Ethnicity,Black,Altered mental status/confusion,Yes       ,,13.1
+Race/Ethnicity,Black,Altered mental status/confusion,No        ,,86.9
+Race/Ethnicity,Black,Anosmia/decreased smell,Yes       ,,5.8
+Race/Ethnicity,Black,Anosmia/decreased smell,No        ,,94.2
+Race/Ethnicity,Black,Chest pain,Yes       ,,15.8
+Race/Ethnicity,Black,Chest pain,No        ,,84.2
+Race/Ethnicity,Black,Congested/runny nose,Yes       ,,7.4
+Race/Ethnicity,Black,Congested/runny nose,No        ,,92.6
+Race/Ethnicity,Black,Cough,Yes       ,,54.0
+Race/Ethnicity,Black,Cough,No        ,,46.0
+Race/Ethnicity,Black,Diarrhea,Yes       ,,20.4
+Race/Ethnicity,Black,Diarrhea,No        ,,79.6
+Race/Ethnicity,Black,Dysgeusia/decreased taste,Yes       ,,7.2
+Race/Ethnicity,Black,Dysgeusia/decreased taste,No        ,,92.8
+Race/Ethnicity,Black,Fever/chills,Yes       ,,47.3
+Race/Ethnicity,Black,Fever/chills,No        ,,52.7
+Race/Ethnicity,Black,Headache,Yes       ,,12.9
+Race/Ethnicity,Black,Headache,No        ,,87.1
+Race/Ethnicity,Black,Hemoptysis/bloody sputum,Yes       ,,0.9
+Race/Ethnicity,Black,Hemoptysis/bloody sputum,No        ,,99.1
+Race/Ethnicity,Black,Muscle aches/myalgias,Yes       ,,20.5
+Race/Ethnicity,Black,Muscle aches/myalgias,No        ,,79.5
+Race/Ethnicity,Black,Nausea/vomiting,Yes       ,,23.0
+Race/Ethnicity,Black,Nausea/vomiting,No        ,,77.0
+Race/Ethnicity,Black,Shortness of breath,Yes       ,,57.9
+Race/Ethnicity,Black,Shortness of breath,No        ,,42.1
+Race/Ethnicity,Black,Sore throat,Yes       ,,5.2
+Race/Ethnicity,Black,Sore throat,No        ,,94.8
+Race/Ethnicity,Black,Wheezing,Yes       ,,2.6
+Race/Ethnicity,Black,Wheezing,No        ,,97.4
+Race/Ethnicity,Black,Acute renal failure/acute kidney injury,Yes       ,,23.0
+Race/Ethnicity,Black,Acute renal failure/acute kidney injury,No        ,,77.0
+Race/Ethnicity,Black,Acute respiratory distress syndrome,Yes       ,,4.3
+Race/Ethnicity,Black,Acute respiratory distress syndrome,No        ,,95.7
+Race/Ethnicity,Black,Acute respiratory failure,Yes       ,,36.3
+Race/Ethnicity,Black,Acute respiratory failure,No        ,,63.7
+Race/Ethnicity,Black,Pneumonia,Yes       ,,54.8
+Race/Ethnicity,Black,Pneumonia,No        ,,45.2
+Race/Ethnicity,Black,Sepsis,Yes       ,,13.3
+Race/Ethnicity,Black,Sepsis,No        ,,86.7
+Race/Ethnicity,Hispanic/Latino,Age,18-49 yr,11964,44.0
+Race/Ethnicity,Hispanic/Latino,Age,50-64 yr,7759,28.6
+Race/Ethnicity,Hispanic/Latino,Age,65+ yr,6683,24.6
+Race/Ethnicity,Hispanic/Latino,Sex,Male,14174,52.2
+Race/Ethnicity,Hispanic/Latino,Sex,Female,12997,47.8
+Race/Ethnicity,Hispanic/Latino,In-hospital death,Yes       ,,10.6
+Race/Ethnicity,Hispanic/Latino,In-hospital death,No        ,,89.4
+Race/Ethnicity,Hispanic/Latino,Intensive care unit,Yes       ,,27.3
+Race/Ethnicity,Hispanic/Latino,Intensive care unit,No        ,,72.7
+Race/Ethnicity,Hispanic/Latino,Mechanical ventilation,Yes       ,,16.9
+Race/Ethnicity,Hispanic/Latino,Mechanical ventilation,No        ,,83.1
+Race/Ethnicity,Hispanic/Latino,Asthma,Yes       ,,10.0
+Race/Ethnicity,Hispanic/Latino,Asthma,No        ,,90.0
+Race/Ethnicity,Hispanic/Latino,COPD/emphysema,Yes       ,,2.3
+Race/Ethnicity,Hispanic/Latino,COPD/emphysema,No        ,,97.7
+Race/Ethnicity,Hispanic/Latino,Diabetes,Yes       ,,33.2
+Race/Ethnicity,Hispanic/Latino,Diabetes,No        ,,66.8
+Race/Ethnicity,Hispanic/Latino,Coronary artery disease,Yes       ,,5.9
+Race/Ethnicity,Hispanic/Latino,Coronary artery disease,No        ,,94.1
+Race/Ethnicity,Hispanic/Latino,Heart failure,Yes       ,,5.3
+Race/Ethnicity,Hispanic/Latino,Heart failure,No        ,,94.7
+Race/Ethnicity,Hispanic/Latino,Hypertension,Yes       ,,38.1
+Race/Ethnicity,Hispanic/Latino,Hypertension,No        ,,61.9
+Race/Ethnicity,Hispanic/Latino,Obesity,Yes       ,,51.8
+Race/Ethnicity,Hispanic/Latino,Obesity,No        ,,48.2
+Race/Ethnicity,Hispanic/Latino,Chronic kidney disease,Yes       ,,9.7
+Race/Ethnicity,Hispanic/Latino,Chronic kidney disease,No        ,,90.3
+Race/Ethnicity,Hispanic/Latino,Abdominal Pain,Yes       ,,14.7
+Race/Ethnicity,Hispanic/Latino,Abdominal Pain,No        ,,85.3
+Race/Ethnicity,Hispanic/Latino,Altered mental status/confusion,Yes       ,,5.1
+Race/Ethnicity,Hispanic/Latino,Altered mental status/confusion,No        ,,94.9
+Race/Ethnicity,Hispanic/Latino,Anosmia/decreased smell,Yes       ,,7.1
+Race/Ethnicity,Hispanic/Latino,Anosmia/decreased smell,No        ,,92.9
+Race/Ethnicity,Hispanic/Latino,Chest pain,Yes       ,,22.9
+Race/Ethnicity,Hispanic/Latino,Chest pain,No        ,,77.1
+Race/Ethnicity,Hispanic/Latino,Congested/runny nose,Yes       ,,9.1
+Race/Ethnicity,Hispanic/Latino,Congested/runny nose,No        ,,90.9
+Race/Ethnicity,Hispanic/Latino,Cough,Yes       ,,67.2
+Race/Ethnicity,Hispanic/Latino,Cough,No        ,,32.8
+Race/Ethnicity,Hispanic/Latino,Diarrhea,Yes       ,,21.9
+Race/Ethnicity,Hispanic/Latino,Diarrhea,No        ,,78.1
+Race/Ethnicity,Hispanic/Latino,Dysgeusia/decreased taste,Yes       ,,8.7
+Race/Ethnicity,Hispanic/Latino,Dysgeusia/decreased taste,No        ,,91.3
+Race/Ethnicity,Hispanic/Latino,Fever/chills,Yes       ,,59.8
+Race/Ethnicity,Hispanic/Latino,Fever/chills,No        ,,40.2
+Race/Ethnicity,Hispanic/Latino,Headache,Yes       ,,21.1
+Race/Ethnicity,Hispanic/Latino,Headache,No        ,,78.9
+Race/Ethnicity,Hispanic/Latino,Hemoptysis/bloody sputum,Yes       ,,1.1
+Race/Ethnicity,Hispanic/Latino,Hemoptysis/bloody sputum,No        ,,98.9
+Race/Ethnicity,Hispanic/Latino,Muscle aches/myalgias,Yes       ,,29.6
+Race/Ethnicity,Hispanic/Latino,Muscle aches/myalgias,No        ,,70.4
+Race/Ethnicity,Hispanic/Latino,Nausea/vomiting,Yes       ,,26.3
+Race/Ethnicity,Hispanic/Latino,Nausea/vomiting,No        ,,73.7
+Race/Ethnicity,Hispanic/Latino,Shortness of breath,Yes       ,,68.0
+Race/Ethnicity,Hispanic/Latino,Shortness of breath,No        ,,32.0
+Race/Ethnicity,Hispanic/Latino,Sore throat,Yes       ,,11.2
+Race/Ethnicity,Hispanic/Latino,Sore throat,No        ,,88.8
+Race/Ethnicity,Hispanic/Latino,Wheezing,Yes       ,,3.4
+Race/Ethnicity,Hispanic/Latino,Wheezing,No        ,,96.6
+Race/Ethnicity,Hispanic/Latino,Acute renal failure/acute kidney injury,Yes       ,,12.9
+Race/Ethnicity,Hispanic/Latino,Acute renal failure/acute kidney injury,No        ,,87.1
+Race/Ethnicity,Hispanic/Latino,Acute respiratory distress syndrome,Yes       ,,9.1
+Race/Ethnicity,Hispanic/Latino,Acute respiratory distress syndrome,No        ,,90.9
+Race/Ethnicity,Hispanic/Latino,Acute respiratory failure,Yes       ,,48.4
+Race/Ethnicity,Hispanic/Latino,Acute respiratory failure,No        ,,51.6
+Race/Ethnicity,Hispanic/Latino,Pneumonia,Yes       ,,59.3
+Race/Ethnicity,Hispanic/Latino,Pneumonia,No        ,,40.7
+Race/Ethnicity,Hispanic/Latino,Sepsis,Yes       ,,16.0
+Race/Ethnicity,Hispanic/Latino,Sepsis,No        ,,84.0
+Race/Ethnicity,Asian/Pacific Islander,Age,18-49 yr,1866,26.1
+Race/Ethnicity,Asian/Pacific Islander,Age,50-64 yr,1983,27.8
+Race/Ethnicity,Asian/Pacific Islander,Age,65+ yr,3182,44.5
+Race/Ethnicity,Asian/Pacific Islander,Sex,Male,3653,51.1
+Race/Ethnicity,Asian/Pacific Islander,Sex,Female,3490,48.9
+Race/Ethnicity,Asian/Pacific Islander,In-hospital death,Yes       ,,11.6
+Race/Ethnicity,Asian/Pacific Islander,In-hospital death,No        ,,88.4
+Race/Ethnicity,Asian/Pacific Islander,Intensive care unit,Yes       ,,30.8
+Race/Ethnicity,Asian/Pacific Islander,Intensive care unit,No        ,,69.2
+Race/Ethnicity,Asian/Pacific Islander,Mechanical ventilation,Yes       ,,17.7
+Race/Ethnicity,Asian/Pacific Islander,Mechanical ventilation,No        ,,82.3
+Race/Ethnicity,Asian/Pacific Islander,Asthma,Yes       ,,10.1
+Race/Ethnicity,Asian/Pacific Islander,Asthma,No        ,,89.9
+Race/Ethnicity,Asian/Pacific Islander,COPD/emphysema,Yes       ,,3.4
+Race/Ethnicity,Asian/Pacific Islander,COPD/emphysema,No        ,,96.6
+Race/Ethnicity,Asian/Pacific Islander,Diabetes,Yes       ,,40.0
+Race/Ethnicity,Asian/Pacific Islander,Diabetes,No        ,,60.0
+Race/Ethnicity,Asian/Pacific Islander,Coronary artery disease,Yes       ,,9.4
+Race/Ethnicity,Asian/Pacific Islander,Coronary artery disease,No        ,,90.6
+Race/Ethnicity,Asian/Pacific Islander,Heart failure,Yes       ,,9.8
+Race/Ethnicity,Asian/Pacific Islander,Heart failure,No        ,,90.2
+Race/Ethnicity,Asian/Pacific Islander,Hypertension,Yes       ,,53.7
+Race/Ethnicity,Asian/Pacific Islander,Hypertension,No        ,,46.3
+Race/Ethnicity,Asian/Pacific Islander,Obesity,Yes       ,,33.8
+Race/Ethnicity,Asian/Pacific Islander,Obesity,No        ,,66.2
+Race/Ethnicity,Asian/Pacific Islander,Chronic kidney disease,Yes       ,,18.6
+Race/Ethnicity,Asian/Pacific Islander,Chronic kidney disease,No        ,,81.4
+Race/Ethnicity,Asian/Pacific Islander,Abdominal Pain,Yes       ,,11.0
+Race/Ethnicity,Asian/Pacific Islander,Abdominal Pain,No        ,,89.0
+Race/Ethnicity,Asian/Pacific Islander,Altered mental status/confusion,Yes       ,,11.4
+Race/Ethnicity,Asian/Pacific Islander,Altered mental status/confusion,No        ,,88.6
+Race/Ethnicity,Asian/Pacific Islander,Anosmia/decreased smell,Yes       ,,6.8
+Race/Ethnicity,Asian/Pacific Islander,Anosmia/decreased smell,No        ,,93.2
+Race/Ethnicity,Asian/Pacific Islander,Chest pain,Yes       ,,18.6
+Race/Ethnicity,Asian/Pacific Islander,Chest pain,No        ,,81.4
+Race/Ethnicity,Asian/Pacific Islander,Congested/runny nose,Yes       ,,7.4
+Race/Ethnicity,Asian/Pacific Islander,Congested/runny nose,No        ,,92.6
+Race/Ethnicity,Asian/Pacific Islander,Cough,Yes       ,,66.1
+Race/Ethnicity,Asian/Pacific Islander,Cough,No        ,,33.9
+Race/Ethnicity,Asian/Pacific Islander,Diarrhea,Yes       ,,19.7
+Race/Ethnicity,Asian/Pacific Islander,Diarrhea,No        ,,80.3
+Race/Ethnicity,Asian/Pacific Islander,Dysgeusia/decreased taste,Yes       ,,11.3
+Race/Ethnicity,Asian/Pacific Islander,Dysgeusia/decreased taste,No        ,,88.7
+Race/Ethnicity,Asian/Pacific Islander,Fever/chills,Yes       ,,57.2
+Race/Ethnicity,Asian/Pacific Islander,Fever/chills,No        ,,42.8
+Race/Ethnicity,Asian/Pacific Islander,Headache,Yes       ,,13.7
+Race/Ethnicity,Asian/Pacific Islander,Headache,No        ,,86.3
+Race/Ethnicity,Asian/Pacific Islander,Hemoptysis/bloody sputum,Yes       ,,1.1
+Race/Ethnicity,Asian/Pacific Islander,Hemoptysis/bloody sputum,No        ,,98.9
+Race/Ethnicity,Asian/Pacific Islander,Muscle aches/myalgias,Yes       ,,26.3
+Race/Ethnicity,Asian/Pacific Islander,Muscle aches/myalgias,No        ,,73.7
+Race/Ethnicity,Asian/Pacific Islander,Nausea/vomiting,Yes       ,,21.8
+Race/Ethnicity,Asian/Pacific Islander,Nausea/vomiting,No        ,,78.2
+Race/Ethnicity,Asian/Pacific Islander,Shortness of breath,Yes       ,,67.0
+Race/Ethnicity,Asian/Pacific Islander,Shortness of breath,No        ,,33.0
+Race/Ethnicity,Asian/Pacific Islander,Sore throat,Yes       ,,9.9
+Race/Ethnicity,Asian/Pacific Islander,Sore throat,No        ,,90.1
+Race/Ethnicity,Asian/Pacific Islander,Wheezing,Yes       ,,2.7
+Race/Ethnicity,Asian/Pacific Islander,Wheezing,No        ,,97.3
+Race/Ethnicity,Asian/Pacific Islander,Acute renal failure/acute kidney injury,Yes       ,,17.3
+Race/Ethnicity,Asian/Pacific Islander,Acute renal failure/acute kidney injury,No        ,,82.7
+Race/Ethnicity,Asian/Pacific Islander,Acute respiratory distress syndrome,Yes       ,,10.4
+Race/Ethnicity,Asian/Pacific Islander,Acute respiratory distress syndrome,No        ,,89.6
+Race/Ethnicity,Asian/Pacific Islander,Acute respiratory failure,Yes       ,,54.9
+Race/Ethnicity,Asian/Pacific Islander,Acute respiratory failure,No        ,,45.1
+Race/Ethnicity,Asian/Pacific Islander,Pneumonia,Yes       ,,63.5
+Race/Ethnicity,Asian/Pacific Islander,Pneumonia,No        ,,36.5
+Race/Ethnicity,Asian/Pacific Islander,Sepsis,Yes       ,,16.5
+Race/Ethnicity,Asian/Pacific Islander,Sepsis,No        ,,83.5
+Race/Ethnicity,American Indian/Alaska Native,Age,18-49 yr,720,36.9
+Race/Ethnicity,American Indian/Alaska Native,Age,50-64 yr,617,31.6
+Race/Ethnicity,American Indian/Alaska Native,Age,65+ yr,594,30.4
+Race/Ethnicity,American Indian/Alaska Native,Sex,Male,883,45.2
+Race/Ethnicity,American Indian/Alaska Native,Sex,Female,1069,54.8
+Race/Ethnicity,American Indian/Alaska Native,In-hospital death,Yes       ,,15.0
+Race/Ethnicity,American Indian/Alaska Native,In-hospital death,No        ,,85.0
+Race/Ethnicity,American Indian/Alaska Native,Intensive care unit,Yes       ,,30.6
+Race/Ethnicity,American Indian/Alaska Native,Intensive care unit,No        ,,69.4
+Race/Ethnicity,American Indian/Alaska Native,Mechanical ventilation,Yes       ,,15.8
+Race/Ethnicity,American Indian/Alaska Native,Mechanical ventilation,No        ,,84.2
+Race/Ethnicity,American Indian/Alaska Native,Asthma,Yes       ,,13.7
+Race/Ethnicity,American Indian/Alaska Native,Asthma,No        ,,86.3
+Race/Ethnicity,American Indian/Alaska Native,COPD/emphysema,Yes       ,,3.1
+Race/Ethnicity,American Indian/Alaska Native,COPD/emphysema,No        ,,96.9
+Race/Ethnicity,American Indian/Alaska Native,Diabetes,Yes       ,,46.8
+Race/Ethnicity,American Indian/Alaska Native,Diabetes,No        ,,53.2
+Race/Ethnicity,American Indian/Alaska Native,Coronary artery disease,Yes       ,,14.5
+Race/Ethnicity,American Indian/Alaska Native,Coronary artery disease,No        ,,85.5
+Race/Ethnicity,American Indian/Alaska Native,Heart failure,Yes       ,,11.5
+Race/Ethnicity,American Indian/Alaska Native,Heart failure,No        ,,88.5
+Race/Ethnicity,American Indian/Alaska Native,Hypertension,Yes       ,,50.2
+Race/Ethnicity,American Indian/Alaska Native,Hypertension,No        ,,49.8
+Race/Ethnicity,American Indian/Alaska Native,Obesity,Yes       ,,49.2
+Race/Ethnicity,American Indian/Alaska Native,Obesity,No        ,,50.8
+Race/Ethnicity,American Indian/Alaska Native,Chronic kidney disease,Yes       ,,12.5
+Race/Ethnicity,American Indian/Alaska Native,Chronic kidney disease,No        ,,87.5
+Race/Ethnicity,American Indian/Alaska Native,Abdominal Pain,Yes       ,,17.4
+Race/Ethnicity,American Indian/Alaska Native,Abdominal Pain,No        ,,82.6
+Race/Ethnicity,American Indian/Alaska Native,Altered mental status/confusion,Yes       ,,12.2
+Race/Ethnicity,American Indian/Alaska Native,Altered mental status/confusion,No        ,,87.8
+Race/Ethnicity,American Indian/Alaska Native,Anosmia/decreased smell,Yes       ,,15.8
+Race/Ethnicity,American Indian/Alaska Native,Anosmia/decreased smell,No        ,,84.2
+Race/Ethnicity,American Indian/Alaska Native,Chest pain,Yes       ,,24.8
+Race/Ethnicity,American Indian/Alaska Native,Chest pain,No        ,,75.2
+Race/Ethnicity,American Indian/Alaska Native,Congested/runny nose,Yes       ,,16.2
+Race/Ethnicity,American Indian/Alaska Native,Congested/runny nose,No        ,,83.8
+Race/Ethnicity,American Indian/Alaska Native,Cough,Yes       ,,71.1
+Race/Ethnicity,American Indian/Alaska Native,Cough,No        ,,28.9
+Race/Ethnicity,American Indian/Alaska Native,Diarrhea,Yes       ,,32.1
+Race/Ethnicity,American Indian/Alaska Native,Diarrhea,No        ,,67.9
+Race/Ethnicity,American Indian/Alaska Native,Dysgeusia/decreased taste,Yes       ,,15.0
+Race/Ethnicity,American Indian/Alaska Native,Dysgeusia/decreased taste,No        ,,85.0
+Race/Ethnicity,American Indian/Alaska Native,Fever/chills,Yes       ,,69.2
+Race/Ethnicity,American Indian/Alaska Native,Fever/chills,No        ,,30.8
+Race/Ethnicity,American Indian/Alaska Native,Headache,Yes       ,,28.0
+Race/Ethnicity,American Indian/Alaska Native,Headache,No        ,,72.0
+Race/Ethnicity,American Indian/Alaska Native,Hemoptysis/bloody sputum,Yes       ,,0.2
+Race/Ethnicity,American Indian/Alaska Native,Hemoptysis/bloody sputum,No        ,,99.8
+Race/Ethnicity,American Indian/Alaska Native,Muscle aches/myalgias,Yes       ,,39.1
+Race/Ethnicity,American Indian/Alaska Native,Muscle aches/myalgias,No        ,,60.9
+Race/Ethnicity,American Indian/Alaska Native,Nausea/vomiting,Yes       ,,32.7
+Race/Ethnicity,American Indian/Alaska Native,Nausea/vomiting,No        ,,67.3
+Race/Ethnicity,American Indian/Alaska Native,Shortness of breath,Yes       ,,70.7
+Race/Ethnicity,American Indian/Alaska Native,Shortness of breath,No        ,,29.3
+Race/Ethnicity,American Indian/Alaska Native,Sore throat,Yes       ,,14.5
+Race/Ethnicity,American Indian/Alaska Native,Sore throat,No        ,,85.5
+Race/Ethnicity,American Indian/Alaska Native,Wheezing,Yes       ,,0.5
+Race/Ethnicity,American Indian/Alaska Native,Wheezing,No        ,,99.5
+Race/Ethnicity,American Indian/Alaska Native,Acute renal failure/acute kidney injury,Yes       ,,13.4
+Race/Ethnicity,American Indian/Alaska Native,Acute renal failure/acute kidney injury,No        ,,86.6
+Race/Ethnicity,American Indian/Alaska Native,Acute respiratory distress syndrome,Yes       ,,10.0
+Race/Ethnicity,American Indian/Alaska Native,Acute respiratory distress syndrome,No        ,,90.0
+Race/Ethnicity,American Indian/Alaska Native,Acute respiratory failure,Yes       ,,67.6
+Race/Ethnicity,American Indian/Alaska Native,Acute respiratory failure,No        ,,32.4
+Race/Ethnicity,American Indian/Alaska Native,Pneumonia,Yes       ,,65.9
+Race/Ethnicity,American Indian/Alaska Native,Pneumonia,No        ,,34.1
+Race/Ethnicity,American Indian/Alaska Native,Sepsis,Yes       ,,10.4
+Race/Ethnicity,American Indian/Alaska Native,Sepsis,No        ,,89.6
+Race/Ethnicity,Other,Age,18-49 yr,2303,28.1
+Race/Ethnicity,Other,Age,50-64 yr,2217,27.0
+Race/Ethnicity,Other,Age,65+ yr,3574,43.6
+Race/Ethnicity,Other,Sex,Male,4463,54.4
+Race/Ethnicity,Other,Sex,Female,3738,45.6
+Race/Ethnicity,Other,In-hospital death,Yes       ,,9.8
+Race/Ethnicity,Other,In-hospital death,No        ,,90.2
+Race/Ethnicity,Other,Intensive care unit,Yes       ,,24.7
+Race/Ethnicity,Other,Intensive care unit,No        ,,75.3
+Race/Ethnicity,Other,Mechanical ventilation,Yes       ,,13.7
+Race/Ethnicity,Other,Mechanical ventilation,No        ,,86.3
+Race/Ethnicity,Other,Asthma,Yes       ,,7.4
+Race/Ethnicity,Other,Asthma,No        ,,92.6
+Race/Ethnicity,Other,COPD/emphysema,Yes       ,,7.8
+Race/Ethnicity,Other,COPD/emphysema,No        ,,92.2
+Race/Ethnicity,Other,Diabetes,Yes       ,,38.4
+Race/Ethnicity,Other,Diabetes,No        ,,61.6
+Race/Ethnicity,Other,Coronary artery disease,Yes       ,,11.0
+Race/Ethnicity,Other,Coronary artery disease,No        ,,89.0
+Race/Ethnicity,Other,Heart failure,Yes       ,,7.7
+Race/Ethnicity,Other,Heart failure,No        ,,92.3
+Race/Ethnicity,Other,Hypertension,Yes       ,,49.1
+Race/Ethnicity,Other,Hypertension,No        ,,50.9
+Race/Ethnicity,Other,Obesity,Yes       ,,45.8
+Race/Ethnicity,Other,Obesity,No        ,,54.2
+Race/Ethnicity,Other,Chronic kidney disease,Yes       ,,10.5
+Race/Ethnicity,Other,Chronic kidney disease,No        ,,89.5
+Race/Ethnicity,Other,Abdominal Pain,Yes       ,,11.5
+Race/Ethnicity,Other,Abdominal Pain,No        ,,88.5
+Race/Ethnicity,Other,Altered mental status/confusion,Yes       ,,9.1
+Race/Ethnicity,Other,Altered mental status/confusion,No        ,,90.9
+Race/Ethnicity,Other,Anosmia/decreased smell,Yes       ,,8.2
+Race/Ethnicity,Other,Anosmia/decreased smell,No        ,,91.8
+Race/Ethnicity,Other,Chest pain,Yes       ,,16.0
+Race/Ethnicity,Other,Chest pain,No        ,,84.0
+Race/Ethnicity,Other,Congested/runny nose,Yes       ,,13.4
+Race/Ethnicity,Other,Congested/runny nose,No        ,,86.6
+Race/Ethnicity,Other,Cough,Yes       ,,65.8
+Race/Ethnicity,Other,Cough,No        ,,34.2
+Race/Ethnicity,Other,Diarrhea,Yes       ,,21.9
+Race/Ethnicity,Other,Diarrhea,No        ,,78.1
+Race/Ethnicity,Other,Dysgeusia/decreased taste,Yes       ,,9.4
+Race/Ethnicity,Other,Dysgeusia/decreased taste,No        ,,90.6
+Race/Ethnicity,Other,Fever/chills,Yes       ,,54.7
+Race/Ethnicity,Other,Fever/chills,No        ,,45.3
+Race/Ethnicity,Other,Headache,Yes       ,,16.2
+Race/Ethnicity,Other,Headache,No        ,,83.8
+Race/Ethnicity,Other,Hemoptysis/bloody sputum,Yes       ,,1.3
+Race/Ethnicity,Other,Hemoptysis/bloody sputum,No        ,,98.7
+Race/Ethnicity,Other,Muscle aches/myalgias,Yes       ,,30.3
+Race/Ethnicity,Other,Muscle aches/myalgias,No        ,,69.7
+Race/Ethnicity,Other,Nausea/vomiting,Yes       ,,25.5
+Race/Ethnicity,Other,Nausea/vomiting,No        ,,74.5
+Race/Ethnicity,Other,Shortness of breath,Yes       ,,67.7
+Race/Ethnicity,Other,Shortness of breath,No        ,,32.3
+Race/Ethnicity,Other,Sore throat,Yes       ,,9.2
+Race/Ethnicity,Other,Sore throat,No        ,,90.8
+Race/Ethnicity,Other,Wheezing,Yes       ,,2.5
+Race/Ethnicity,Other,Wheezing,No        ,,97.5
+Race/Ethnicity,Other,Acute renal failure/acute kidney injury,Yes       ,,21.2
+Race/Ethnicity,Other,Acute renal failure/acute kidney injury,No        ,,78.8
+Race/Ethnicity,Other,Acute respiratory distress syndrome,Yes       ,,6.1
+Race/Ethnicity,Other,Acute respiratory distress syndrome,No        ,,93.9
+Race/Ethnicity,Other,Acute respiratory failure,Yes       ,,46.3
+Race/Ethnicity,Other,Acute respiratory failure,No        ,,53.7
+Race/Ethnicity,Other,Pneumonia,Yes       ,,62.2
+Race/Ethnicity,Other,Pneumonia,No        ,,37.8
+Race/Ethnicity,Other,Sepsis,Yes       ,,16.5
+Race/Ethnicity,Other,Sepsis,No        ,,83.5
+Intensive care unit,Yes       ,Age,18-49 yr,,20.4
+Intensive care unit,Yes       ,Age,50-64 yr,,29.9
+Intensive care unit,Yes       ,Age,65+ yr,,48.1
+Intensive care unit,Yes       ,Sex,Male,,59.4
+Intensive care unit,Yes       ,Sex,Female,,40.6
+Intensive care unit,Yes       ,Race/Ethnicity,White,,37.2
+Intensive care unit,Yes       ,Race/Ethnicity,Black,,26.7
+Intensive care unit,Yes       ,Race/Ethnicity,Hispanic/Latino,,23.4
+Intensive care unit,Yes       ,Race/Ethnicity,Asian/Pacific Islander,,7.3
+Intensive care unit,Yes       ,Race/Ethnicity,American Indian/Alaska Native,,2.0
+Intensive care unit,Yes       ,Race/Ethnicity,Other,,3.4
+Intensive care unit,No        ,Age,18-49 yr,,28.0
+Intensive care unit,No        ,Age,50-64 yr,,26.6
+Intensive care unit,No        ,Age,65+ yr,,44.1
+Intensive care unit,No        ,Sex,Male,,48.0
+Intensive care unit,No        ,Sex,Female,,52.0
+Intensive care unit,No        ,Race/Ethnicity,White,,43.0
+Intensive care unit,No        ,Race/Ethnicity,Black,,27.5
+Intensive care unit,No        ,Race/Ethnicity,Hispanic/Latino,,19.7
+Intensive care unit,No        ,Race/Ethnicity,Asian/Pacific Islander,,4.6
+Intensive care unit,No        ,Race/Ethnicity,American Indian/Alaska Native,,1.4
+Intensive care unit,No        ,Race/Ethnicity,Other,,3.8
+Mechanical ventilation,Yes       ,Age,18-49 yr,,17.9
+Mechanical ventilation,Yes       ,Age,50-64 yr,,30.5
+Mechanical ventilation,Yes       ,Age,65+ yr,,50.9
+Mechanical ventilation,Yes       ,Sex,Male,,59.9
+Mechanical ventilation,Yes       ,Sex,Female,,40.1
+Mechanical ventilation,Yes       ,Race/Ethnicity,White,,34.0
+Mechanical ventilation,Yes       ,Race/Ethnicity,Black,,28.1
+Mechanical ventilation,Yes       ,Race/Ethnicity,Hispanic/Latino,,25.3
+Mechanical ventilation,Yes       ,Race/Ethnicity,Asian/Pacific Islander,,6.9
+Mechanical ventilation,Yes       ,Race/Ethnicity,American Indian/Alaska Native,,2.0
+Mechanical ventilation,Yes       ,Race/Ethnicity,Other,,3.7
+Mechanical ventilation,No        ,Age,18-49 yr,,27.4
+Mechanical ventilation,No        ,Age,50-64 yr,,26.8
+Mechanical ventilation,No        ,Age,65+ yr,,44.2
+Mechanical ventilation,No        ,Sex,Male,,49.4
+Mechanical ventilation,No        ,Sex,Female,,50.6
+Mechanical ventilation,No        ,Race/Ethnicity,White,,42.7
+Mechanical ventilation,No        ,Race/Ethnicity,Black,,27.2
+Mechanical ventilation,No        ,Race/Ethnicity,Hispanic/Latino,,19.9
+Mechanical ventilation,No        ,Race/Ethnicity,Asian/Pacific Islander,,5.0
+Mechanical ventilation,No        ,Race/Ethnicity,American Indian/Alaska Native,,1.5
+Mechanical ventilation,No        ,Race/Ethnicity,Other,,3.7
+In-hospital death,Yes       ,Age,18-49 yr,,5.1
+In-hospital death,Yes       ,Age,50-64 yr,,19.6
+In-hospital death,Yes       ,Age,65+ yr,,75.2
+In-hospital death,Yes       ,Sex,Male,,58.0
+In-hospital death,Yes       ,Sex,Female,,42.0
+In-hospital death,Yes       ,Race/Ethnicity,White,,46.8
+In-hospital death,Yes       ,Race/Ethnicity,Black,,24.4
+In-hospital death,Yes       ,Race/Ethnicity,Hispanic/Latino,,17.4
+In-hospital death,Yes       ,Race/Ethnicity,Asian/Pacific Islander,,6.2
+In-hospital death,Yes       ,Race/Ethnicity,American Indian/Alaska Native,,2.1
+In-hospital death,Yes       ,Race/Ethnicity,Other,,3.1
+In-hospital death,No        ,Age,18-49 yr,,28.8
+In-hospital death,No        ,Age,50-64 yr,,28.4
+In-hospital death,No        ,Age,65+ yr,,41.2
+In-hospital death,No        ,Sex,Male,,49.9
+In-hospital death,No        ,Sex,Female,,50.1
+In-hospital death,No        ,Race/Ethnicity,White,,40.8
+In-hospital death,No        ,Race/Ethnicity,Black,,27.7
+In-hospital death,No        ,Race/Ethnicity,Hispanic/Latino,,21.1
+In-hospital death,No        ,Race/Ethnicity,Asian/Pacific Islander,,5.1
+In-hospital death,No        ,Race/Ethnicity,American Indian/Alaska Native,,1.5
+In-hospital death,No        ,Race/Ethnicity,Other,,3.8
+
+"1.COVID-NET hospitalization data are preliminary and subject to change as more data become available. In particular, case counts and rates for recent hospital admissions are subject to delay. As data are received each week, prior case counts and rates are updated accordingly."
+"2. White, Black, Asian/Pacific Islander and American Indian/Alaska Native all represent non-Hispanic ethnicity groups; Other includes persons in multiple race categories and persons for whom race is unknown."
+"3. All data presented, including demographics (age, sex, race and ethnicity), interventions and outcomes, underlying medical conditions, signs/symptoms at admission, and discharge diagnoses  are restricted to sampled and completed cases with non-missing data reported during March 1, 2020 - January 31, 2021. Due to the sampling methodology for adults aged =18 years, counts and unweighted percentages are only presented for demographic data. Weighted percentages are presented for intensive care unit admission, mechanical ventilation, in-hospital death, underlying medical conditions, signs/symptoms at admission, and discharge diagnoses."
